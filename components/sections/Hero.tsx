@@ -19,8 +19,7 @@ export default function Hero() {
         }}
       />
 
-      <div className="relative mx-auto flex max-w-[1120px] items-center justify-between gap-16">
-        {/* Left Side */}
+<div className="relative mx-auto flex max-w-[1120px] flex-col items-center gap-12 lg:flex-row lg:justify-between lg:gap-16">        {/* Left Side */}
         <div>
           <p className="mb-6 font-mono text-[13px] uppercase tracking-wider text-slate">
             Computer &amp; Communications Engineering
@@ -48,12 +47,12 @@ export default function Hero() {
 
         {/* Right Side - Profile Image */}
 <div className="flex flex-shrink-0 justify-center lg:justify-end -ml-12">          <Image
-            src="/omar.jpeg"
-            alt="Omar Elebiary"
-            width={400}
-            height={400}
-            priority
-            className="rounded-3xl object-cover shadow-2xl border border-hairline -translate-x-12"
+  src="/omar.jpeg"
+  alt="Omar Elebiary"
+  width={380}
+  height={380}
+  priority
+  className="w-[280px] h-[280px] lg:w-[380px] lg:h-[380px] rounded-3xl object-cover shadow-2xl border border-hairline"
 />
 
         </div>
