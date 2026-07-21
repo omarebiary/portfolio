@@ -47,8 +47,7 @@ export default function Hero() {
         </div>
 
         {/* Right Side - Profile Image */}
-        <div className="hidden lg:flex flex-shrink-0 justify-end -ml-12">          
-          <Image
+<div className="flex flex-shrink-0 justify-center lg:justify-end -ml-12">          <Image
             src="/omar.jpeg"
             alt="Omar Elebiary"
             width={400}
