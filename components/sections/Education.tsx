@@ -28,10 +28,10 @@ export default function Education() {
             &middot; Expected graduation: 2027
           </p>
           <p className="mt-6 text-[15px] leading-relaxed text-ink/85">
-            Cumulative GPA: 2.87. Second-semester GPA: 3.81 &mdash; the
-            semester my course load left the most room to focus, and the
-            number I&apos;d point to if you want a sense of what I&apos;m
-            capable of when the load is manageable.
+            I am deeply motivated by learning challenging concepts and applying 
+            them through practical projects. From embedded systems to software 
+            development, I enjoy turning ideas into working solutions and 
+            continuously expanding my technical skills through hands-on experience.
           </p>
         </Reveal>
       </div>
