@@ -24,19 +24,18 @@ export default function About() {
             I&apos;m a third-year Computer and Communications Engineering
             student at Cairo University, working toward a specialization in
             communication systems. My coursework in that direction is still
-            ahead of me &mdash; most of what I know about telecom right now
+            ahead of me. most of what I know about telecom right now
             comes from a training program and my own reading, not a
             transcript.
           </p>
           <p className="text-[17px] leading-relaxed text-ink/85">
-            What I can show you is how I work: I&apos;ve built embedded
-            systems from the hardware up, written a real-time collaborative
-            editor from scratch, and stood in front of judges and audiences
-            enough times to be comfortable doing it again. My GPA
-            doesn&apos;t fully reflect that &mdash; a heavy course load
-            brought my cumulative average down to 2.87, but I pulled a 3.81
-            the semester I had more room to focus. I&apos;d rather tell you
-            that upfront than have you find the number and wonder.
+            What I can show you is how I work. I've built embedded systems
+             from the hardware up, written a real-time collaborative
+              editor from scratch, and presented technical projects 
+              to judges and audiences with confidence. I enjoy tackling challenging 
+              problems, learning quickly, and taking ownership from idea 
+              to implementation. I'd much rather let the quality of my
+               work speak for itself.
           </p>
           <p className="text-[17px] leading-relaxed text-ink/85">
             I build things, then I explain them clearly to whoever&apos;s in

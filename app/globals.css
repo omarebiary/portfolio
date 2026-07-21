@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --substrate: #f6f7f4;
+  --substrate: #fcfff6;
   --signal-ink: #12181f;
   --trace-blue: #2657a6;
   --indicator-amber: #c98a1e;
-  --slate: #5b6470;
+  --slate: #000000;
   --hairline: #dbdeda;
 
   /* IBM Plex Sans / Mono are the intended typefaces (see design spec).

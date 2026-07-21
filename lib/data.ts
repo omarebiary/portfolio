@@ -13,7 +13,7 @@ export const PROJECTS: Project[] = [
   {
     id: "collab-editor",
     title: "Real-Time Collaborative Editor",
-    tags: ["ONGOING"],
+    tags: ["TEAM PROJECT"],
     description:
       "A Google Docs\u2013style collaborative text editor, built to understand how systems like it actually work rather than just use them. It handles concurrent edits from multiple users using CRDTs, with networking and concurrency control keeping every user's document in sync without a central lock. Still in progress \u2014 the problems here (conflict resolution, ordering, network reliability) are the same category that shows up in the communication systems I'm hoping to specialize in.",
     stack: ["Java", "CRDTs", "Networking"],
@@ -31,7 +31,7 @@ export const PROJECTS: Project[] = [
   {
     id: "roborally",
     title: "RoboRally Digital Version",
-    tags: ["SOLO"],
+    tags: ["TEAM PROJECT"],
     description:
       "A full digital implementation of the RoboRally board game, built in C++ with an object-oriented structure that keeps the rules engine, board state, and player logic cleanly separated. A useful exercise in designing software that stays maintainable as complexity grows, rather than software that just works once.",
     stack: ["C++", "OOP"],
@@ -40,7 +40,7 @@ export const PROJECTS: Project[] = [
   {
     id: "physio-data",
     title: "Physiotherapy Data Management",
-    tags: ["SOLO"],
+    tags: ["TEAM PROJECT"],
     description:
       "Designed data structures to organize and retrieve patient records efficiently.",
     stack: ["C++", "Data Structures"],
